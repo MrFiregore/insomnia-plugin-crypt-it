@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-crypt-it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "insomnia": {
     "name": "cryptIt",
