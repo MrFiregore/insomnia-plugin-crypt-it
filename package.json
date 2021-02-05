@@ -1,0 +1,17 @@
+{
+  "name": "insomnia-plugin-crypt-it",
+  "version": "1.0.0",
+  "main": "index.js",
+  "insomnia": {
+    "name": "cryptIt",
+    "description": "crypt encryption plugin for Insomnia REST Client"
+  },
+  "devDependencies": {
+    "canvas": "^2.6.1",
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "dependencies": {}
+}
