@@ -1,10 +1,19 @@
 {
   "name": "insomnia-plugin-crypt-it",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "insomnia": {
     "name": "cryptIt",
-    "description": "crypt encryption plugin for Insomnia REST Client"
+    "description": "crypt encryption plugin for Insomnia REST Client",
+    "displayName": "cryptIt",
+    "images": {
+      "icon": "imgs/logo-xl.svg",
+      "cover": "imgs/logo-xl.svg"
+    },
+    "publisher": {
+      "name": "MrFiregore",
+      "icon": "https://avatars.githubusercontent.com/u/23504988?v=4"
+    }
   },
-  "dependencies": {}
+  "dependencies":  {}
 }
